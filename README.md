@@ -53,5 +53,4 @@ npm run dev
 
 ## 说明
 
-- 提交到 GitHub 前请确认 `.env`、`node_modules`、`target`、`dist` 等生成物不会被纳入版本库。
 - 如果你只想快速查看项目结构，直接浏览 `bootstrap/`、`infra-ai/` 和 `frontend/src/` 即可。
